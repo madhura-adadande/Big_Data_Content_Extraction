@@ -14,3 +14,11 @@ Technologies Involved:
 
 ## Architecture Diagram
 ![data_extraction_diagram](https://github.com/user-attachments/assets/253c875a-afa6-4353-9f5a-04231af16d78)
+
+
+## Contributions
+- Vemana Anil Kumar - 33.3%
+- Ashwin Badamikar - 33.3%
+- Madhura Adadande - 33.3%
+  
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
